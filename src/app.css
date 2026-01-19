@@ -39,25 +39,6 @@ button {
 button:hover {
   background-color: #0056b3;
 }
-
-.error {
-  background-color: #f8d7da;
-  color: #721c24;
-  padding: 15px;
-  border-radius: 4px;
-  text-align: center;
-  margin: 20px 0;
-  border: 1px solid #f5c6cb;
-}
-
-.user-info {
-  text-align: center;
-  background-color: #f8f9fa;
-  padding: 20px;
-  border-radius: 8px;
-  border: 1px solid #dee2e6;
-}
-
 .user-info h2 {
   color: #333;
   margin-bottom: 15px;
